@@ -306,10 +306,7 @@ h1 {
 .card_main input[type='checkbox']:checked + .menu-content {
 	transform: translateY(-60px);
 }
-  
-  /*--------------------------------------------------------------
-  2.0 - SEARCH FORM
-  --------------------------------------------------------------*/
+
   .searchform {
 	background:#727fa8;
 	background:rgba(135, 192, 245, 0.79);
